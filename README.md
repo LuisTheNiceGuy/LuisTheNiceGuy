@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTheNiceGuy)](https://github.com/LuisTheNiceGuy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTheNiceGuy&hide=javascript,html)](https://github.com/LuisTheNiceGuy/github-readme-stats)
 
   <img align="right" alt="Coding" width="400" src="add your link 
   here">
